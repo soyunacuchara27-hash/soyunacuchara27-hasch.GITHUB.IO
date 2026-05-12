@@ -13,3 +13,16 @@
    🟠 : #fff8f0
    🟡 : #ffeaa0
    */
+body {
+    font-family: Georgia, serif;                                           
+    margin: 0;
+    padding: 0;
+    background-color: #863f3f;
+    color: #333;
+}
+
+header {
+    background-color: #1a1a1a;
+    padding: 15px 40px;
+    border-bottom: 3px solid #c0392b;
+    text-align: center;
